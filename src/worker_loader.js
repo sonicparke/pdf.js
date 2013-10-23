@@ -14,7 +14,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
- /* globals PDFJS, Util */
+ /* globals PDFJS, Util **/
 
 'use strict';
 
